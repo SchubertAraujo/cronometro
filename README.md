@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/SchubertAraujo/Cronomêtro/main/preview.png" alt="Uma imagem do projeto" />
 
 ## PRINCIPAIS FUNCIONALIDADES
-- Contem apenas inicialização, parada e limpeza de um cronomtro
+- Contém apenas inicialização, parada e limpeza de um cronomêtro
 <img src="https://img.shields.io/static/v1?label=Status&message=Finalizado&color=green&labelColor=575757&style=flat" />
 
 ## INFORMAÇÕES ADICIONAIS
